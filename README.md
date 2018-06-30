@@ -1,4 +1,4 @@
-# Luke's Shortcut Sync
+# Kirk's Shortcut Sync
 
 I have a lot of file directories and I like being able to easily sort the stuff I download or make in as few keypresses as possible.
 I also have a lot of config files that I'm modifying all the time, and I like them to be easily accessible.
